@@ -1,15 +1,14 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 <!-- Required meta tags-->
-<meta charset="UTF-8">
-<meta name="viewport"
-	content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="description" content="au theme template">
-<meta name="author" content="Hau Nguyen">
-<meta name="keywords" content="au theme template">
+	<meta charset="UTF-8">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="au theme template">
+	<meta name="author" content="Hau Nguyen">
+	<meta name="keywords" content="au theme template">
 
 <!-- Title Page-->
 <title>관리페이지</title>
@@ -185,26 +184,22 @@
 											<label for="textarea-input" class=" form-control-label">전시여부</label>
 										</div>
 										<div class="col-12 col-md-9">
-											<input type="checkbox" checked data-toggle="toggle"
-												data-size="lg">
+											<input type="checkbox" checked data-toggle="toggle" data-size="lg">
 										</div>
 									</div>
 									<div class="row form-group">
 										<div class="col col-md-3">
-											<label for="file-input" class=" form-control-label">메뉴
-												이미지</label>
+											<label for="file-input" class=" form-control-label">메뉴 이미지</label>
 										</div>
 										<div class="col-12 col-md-9">
-											<input type="file" id="file-input" name="file-input"
-												class="form-control-file">
+											<input type="file" id="file-input" name="file-input" class="form-control-file">
 										</div>
 									</div>
 								</form>
 							</div>
 						</div>
 						<div class="modal-footer">
-							<button type="button" class="btn btn-secondary"
-								data-dismiss="modal">취소</button>
+							<button type="button" class="btn btn-secondary" data-dismiss="modal">취소</button>
 							<button type="button" class="btn btn-primary">저장</button>
 						</div>
 					</div>
