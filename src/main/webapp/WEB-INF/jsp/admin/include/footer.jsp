@@ -25,7 +25,9 @@
 <!-- Main CSS-->
     <link href="../static/css/theme.css" rel="stylesheet" media="all">
      <!-- Jquery JS-->
+    
     <script src="../static/vendor/jquery-3.2.1.min.js"></script>
+     <script src="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/js/bootstrap4-toggle.min.js"></script>
     <!-- Bootstrap JS-->
     <script src="../static/vendor/bootstrap-4.1/popper.min.js"></script>
     <script src="../static/vendor/bootstrap-4.1/bootstrap.min.js"></script>
