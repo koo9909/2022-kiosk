@@ -13,7 +13,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="copyright">
-                                <p>Copyright © 2022 foods.com All rights reserved</p>
+                                <p>Copyright © 2020 foods.com All rights reserved</p>
                             </div>
                         </div>
                     </div>
@@ -25,7 +25,9 @@
 <!-- Main CSS-->
     <link href="../static/css/theme.css" rel="stylesheet" media="all">
      <!-- Jquery JS-->
+    
     <script src="../static/vendor/jquery-3.2.1.min.js"></script>
+     <script src="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/js/bootstrap4-toggle.min.js"></script>
     <!-- Bootstrap JS-->
     <script src="../static/vendor/bootstrap-4.1/popper.min.js"></script>
     <script src="../static/vendor/bootstrap-4.1/bootstrap.min.js"></script>
@@ -43,6 +45,12 @@
     <script src="../static/vendor/perfect-scrollbar/perfect-scrollbar.js"></script>
     <script src="../static/vendor/chartjs/Chart.bundle.min.js"></script>
     <script src="../static/vendor/select2/select2.min.js">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.10.1/bootstrap-table.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.10.1/bootstrap-table.min.js"></script>
+    
     </script>
 
     <!-- Main JS-->
