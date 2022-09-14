@@ -1,15 +1,14 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 <!-- Required meta tags-->
-<meta charset="UTF-8">
-<meta name="viewport"
-	content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="description" content="au theme template">
-<meta name="author" content="Hau Nguyen">
-<meta name="keywords" content="au theme template">
+	<meta charset="UTF-8">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="au theme template">
+	<meta name="author" content="Hau Nguyen">
+	<meta name="keywords" content="au theme template">
 
 <!-- Title Page-->
 <title>관리페이지</title>
@@ -122,8 +121,7 @@
 					<div class="modal-content">
 						<div class="modal-header">
 							<h5 class="modal-title" id="largeModalLabel">메뉴등록/수정</h5>
-							<button type="button" class="close" data-dismiss="modal"
-								aria-label="Close">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 								<span aria-hidden="true">&times;</span>
 							</button>
 						</div>
@@ -145,8 +143,7 @@
 										</div>
 										<div class="col-12 col-md-9">
 											<input type="text" id="menuNm" name="menuNm"
-												placeholder="메뉴 명" class="form-control"> <small
-												class="form-text text-muted"></small>
+												placeholder="메뉴 명" class="form-control"> <small class="form-text text-muted"></small>
 										</div>
 									</div>
 									<div class="row form-group">
@@ -154,9 +151,7 @@
 											<label for="price" class=" form-control-label">단가</label>
 										</div>
 										<div class="col-3 col-md-3">
-											<input type="number" id="price" name="price" placeholder="단가"
-												class="form-control"> <small
-												class="help-block form-text"></small>
+											<input type="number" id="price" name="price" placeholder="단가" class="form-control"> <small class="help-block form-text"></small>
 										</div>
 									</div>
 									<div class="row form-group">
@@ -165,8 +160,7 @@
 												설명</label>
 										</div>
 										<div class="col-12 col-md-9">
-											<textarea name="menuDesc" id="menuDesc" rows="3"
-												placeholder="메뉴 설명..." class="form-control"></textarea>
+											<textarea name="menuDesc" id="menuDesc" rows="3" placeholder="메뉴 설명..." class="form-control"></textarea>
 											<small class="help-block form-text"></small>
 										</div>
 									</div>
@@ -176,8 +170,7 @@
 												재고</label>
 										</div>
 										<div class="col-3 col-md-3">
-											<input type="number" id="menuStock" name="menuStock"
-												placeholder="재고" class="form-control">
+											<input type="number" id="menuStock" name="menuStock" placeholder="재고" class="form-control">
 										</div>
 									</div>
 									<div class="row form-group">
@@ -185,26 +178,22 @@
 											<label for="textarea-input" class=" form-control-label">전시여부</label>
 										</div>
 										<div class="col-12 col-md-9">
-											<input type="checkbox" checked data-toggle="toggle"
-												data-size="lg">
+											<input type="checkbox" checked data-toggle="toggle" data-size="lg">
 										</div>
 									</div>
 									<div class="row form-group">
 										<div class="col col-md-3">
-											<label for="file-input" class=" form-control-label">메뉴
-												이미지</label>
+											<label for="file-input" class=" form-control-label">메뉴 이미지</label>
 										</div>
 										<div class="col-12 col-md-9">
-											<input type="file" id="file-input" name="file-input"
-												class="form-control-file">
+											<input type="file" id="file-input" name="file-input" class="form-control-file">
 										</div>
 									</div>
 								</form>
 							</div>
 						</div>
 						<div class="modal-footer">
-							<button type="button" class="btn btn-secondary"
-								data-dismiss="modal">취소</button>
+							<button type="button" class="btn btn-secondary" data-dismiss="modal">취소</button>
 							<button type="button" class="btn btn-primary">저장</button>
 						</div>
 					</div>
